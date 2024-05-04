@@ -4,6 +4,7 @@ CCTV-2财经,http://111.226.119.230:9999/tsfile/live/1001_1.m3u8
 CCTV-3综艺,http://111.226.119.230:9999/tsfile/live/1002_1.m3u8
 CCTV-4中文,http://111.226.119.230:9999/tsfile/live/1003_1.m3u8
 CCTV-5体育,http://111.226.119.230:9999/tsfile/live/1004_1.m3u8
+CCTV-5+体育赛事,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=284
 CCTV-6电影,http://111.226.119.230:9999/tsfile/live/0006_1.m3u8
 CCTV-7军事,http://111.226.119.230:9999/tsfile/live/0007_1.m3u8
 CCTV-8电视,http://111.226.119.230:9999/tsfile/live/0008_1.m3u8
@@ -19,6 +20,7 @@ CCTV-2财经,http://106.115.25.89:9999/tsfile/live/1001_1.m3u8
 CCTV-3综艺,http://106.115.25.89:9999/tsfile/live/1002_1.m3u8
 CCTV-4中文,http://106.115.25.89:9999/tsfile/live/1003_1.m3u8
 CCTV-5体育,http://106.115.25.89:9999/tsfile/live/1004_1.m3u8
+CCTV-5+体育赛事,http://61.52.212.221:8181/udp/225.1.4.75:1104
 CCTV-6电影,http://106.115.25.89:9999/tsfile/live/0006_1.m3u8
 CCTV-7军事,http://106.115.25.89:9999/tsfile/live/0007_1.m3u8
 CCTV-8电视,http://106.115.25.89:9999/tsfile/live/0008_1.m3u8
@@ -64,7 +66,7 @@ CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
