@@ -39,8 +39,7 @@
 
 4. result.txt 为更新后的直播源接口文件，source.json 为数据源文件（目前仅作分享使用）
 5. 建议采用代理的方式访问直播源与数据源文件（xxx 为您的仓库路径）：
-   - https://mirror.ghproxy.com/raw.githubusercontent.com/xxx/result.txt
-   - https://mirror.ghproxy.com/raw.githubusercontent.com/xxx/source.json
+   - https://mirror.ghproxy.com/https://github.com/Star-Word/TVbox/blob/master/iptv-mine.txt
 
 ## 更新日志
 
